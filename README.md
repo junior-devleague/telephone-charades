@@ -14,14 +14,16 @@ Instructors | 2+ (1 possible)
 Prep Time | 5-10 minutes
 Activity Time | 15 - 20 minutes
 Noise Level | Low (Should be silent)
-Beware | If the words are too hard students might not want to act out and may shrug, passing nonchalance on quickly! 
+Beware | If the words are too hard students might not want to act out and may shrug, passing nonchalance on quickly!
 
 ## Preparation
 
 Instructor should prepare the following:
 * List of ~10+ terms relatively easy to act out.
 
-## Rules
+## Activity 
+
+### Rules
 * No talking or "mouthing" (silently trying to say) the term
 * No looking back (each student should be facing all in one direction)
 
