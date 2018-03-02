@@ -9,7 +9,7 @@ Break the ice, form team bonds within the classroom, and review terms learned pr
 ## General  
 Notes | Expectations
 --------|------------
-Group Size | 10+, Even Number Best   
+Class Size | 10+, Even Number Best   
 Instructors | 2+ (1 possible)
 Prep Time | 5-10 minutes
 Activity Time | 15 - 20 minutes
@@ -21,7 +21,7 @@ Beware | If the words are too hard students might not want to act out and may sh
 Instructor should prepare the following:
 * List of ~10+ terms relatively easy to act out.
 
-## Activity 
+## Activity
 
 ### Rules
 * No talking or "mouthing" (silently trying to say) the term
