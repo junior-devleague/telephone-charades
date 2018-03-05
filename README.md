@@ -14,7 +14,7 @@ Instructors | 2+ (1 possible)
 Prep Time | 5-10 minutes
 Activity Time | 15 - 20 minutes
 Noise Level | Low (Should be silent)
-Beware | If the words are too hard students might not want to act out and may shrug, passing nonchalance on quickly!
+Note | If the words are too hard students might not want to act out and may shrug, passing nonchalance on quickly!
 
 ## Preparation
 
